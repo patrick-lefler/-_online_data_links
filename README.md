@@ -1,1 +1,1 @@
-# - Stored Documents
+# Stored Documents
